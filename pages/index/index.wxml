@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<text class='title'>hello</text>
+<button class='button'>蓝牙连接</button>
+<view>1.test1</view>
+
+
+

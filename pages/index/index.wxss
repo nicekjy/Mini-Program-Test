@@ -1,0 +1,11 @@
+/**index.wxss**/
+.title {
+  color: red;
+  font-size: 40px;
+}
+.button{
+  color: blue;
+  background-color: yellow;
+  font-size: 20px;
+  border: 0;
+}
